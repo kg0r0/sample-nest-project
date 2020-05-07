@@ -28,6 +28,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Creating a new project with the Nest CLI
+
+```bash
+$ nest new project-name
+```
+
 ## Installation
 
 ```bash
